@@ -14,3 +14,4 @@ practice with animation mostly dealing with how to properly do an animation func
 <h2>Finished (Ofcourse in Animation)</h2>
 <img width="675" height="630" alt="Screenshot 2025-08-28 at 2 57 27 PM" src="https://github.com/user-attachments/assets/c1f1655e-7198-4dcf-960e-9bf34e2c2302" />
 
+-.orbit was the one being rotated and the positioned:absolute moon was the one following that .orbit rotation. 
