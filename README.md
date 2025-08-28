@@ -8,6 +8,8 @@ practice with animation mostly dealing with how to properly do an animation func
 
 -Orbit based on the actual orbit since the orbit was the one being rotated and not the actual moon. The orbit was given as the illusion so as it was rotating .moon was positioned absolutely to the .orbit making it seem like the illusion of the moon was actually orbiting but it needed to do so with the .orbit. Not the actual moon itself. 
 
+-Little reminder on transform() property as well and using it more. 
+
 
 <h2>Preview</h2>
 <img width="878" height="672" alt="Screenshot 2025-08-28 at 2 56 43 PM" src="https://github.com/user-attachments/assets/26b852cd-b95e-4240-9a9c-d0177ec26da9" />
