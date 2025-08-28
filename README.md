@@ -2,8 +2,10 @@
 practice with animation mostly dealing with how to properly do an animation function. Little tricky and something I definitely need practice on. First time really using it. 
 
 
--Just trying to get used to pracitcing the animation property. Still getting used to it as today was really the first proper teaching of using the animation property with @keyframes. I understand the concept but practically need more practice. 
+-Just trying to get used to pracitcing the animation property. Still getting used to it as today was really the first proper teaching of using the animation property with @keyframes. I understand the concept but practically need more practice.
+
 -centering on the body used display: flex;, did a div space for setting all the elements within the animation be positioned absolutely while .space was positioned relative. 
+
 -Orbit based on the actual orbit since the orbit was the one being rotated and not the actual moon. The orbit was given as the illusion so as it was rotating .moon was positioned absolutely to the .orbit making it seem like the illusion of the moon was actually orbiting but it needed to do so with the .orbit. Not the actual moon itself. 
 
 
